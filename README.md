@@ -1,4 +1,3 @@
-# plain
 ### 熟悉键盘
 链接 http://dazi.kukuw.com/  
 要求
