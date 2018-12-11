@@ -1,0 +1,18 @@
+{
+  "name": "demo01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "packageDarwin": "electron-packager . 'Hosts' --platform=darwin --arch=x64  --out=./dist --asar --app-version=2.0.1 --ignore=\"(dist|src|docs|.gitignore|LICENSE|README.md|webpack.config*|node_modules)\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^3.0.11"
+  },
+  "devDependencies": {
+    "electron-packager": "^13.0.0"
+  }
+}
