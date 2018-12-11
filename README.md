@@ -8,4 +8,4 @@
 
 ### electron
 使用 JavaScript, HTML 和 CSS 构建跨平台的桌面应用  
-[electron 入门教程](https://github.com/13653389794/plain/blob/master/electron/%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B.md)    
+[electron 入门教程 | 完成时间:2018-12-11](https://github.com/13653389794/plain/blob/master/electron/%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B.md)    
