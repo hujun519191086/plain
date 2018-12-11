@@ -8,7 +8,7 @@
 
 ### electron
 使用 JavaScript, HTML 和 CSS 构建跨平台的桌面应用  
-[electron 入门教程 | 完成时间:2018-12-11](https://github.com/13653389794/plain/blob/master/electron/%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B.md)    
-[electron 入门教程demo | 完成时间:2018-12-11](https://github.com/13653389794/plain/tree/master/electron/demo/demo01)    
-[electron 打包教程 | 完成时间:2018-12-11](https://github.com/13653389794/plain/blob/master/electron/electron%E6%89%93%E5%8C%85/electron%E6%89%93%E5%8C%85.md)    
-[electron 打包教程demo | 完成时间:2018-12-11](https://github.com/13653389794/plain/tree/master/electron/demo/demo02)  
+[electron 入门教程](https://github.com/13653389794/plain/blob/master/electron/%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B.md) | 完成时间:2018-12-11      
+[electron 入门教程demo](https://github.com/13653389794/plain/tree/master/electron/demo/demo01) | 完成时间:2018-12-11      
+[electron 打包教程](https://github.com/13653389794/plain/blob/master/electron/electron%E6%89%93%E5%8C%85/electron%E6%89%93%E5%8C%85.md) | 完成时间:2018-12-11      
+[electron 打包教程demo](https://github.com/13653389794/plain/tree/master/electron/demo/demo02) | 完成时间:2018-12-11    
