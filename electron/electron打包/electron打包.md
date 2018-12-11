@@ -1,5 +1,5 @@
 # electron打包
-### 1、下载[electron 入门教程demo](https://github.com/13653389794/plain/tree/master/electron/demo/demo01)  
+### 1、下载[electron 入门教程demo](https://github.com/13653389794/plain/tree/master/electron/demo/demo01)项目  
 ### 2、下载electron-packager
 ```
 npm install --save-dev electron-packager
