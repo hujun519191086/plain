@@ -7,5 +7,5 @@
 >最终阶段：盲打、英文打字、随机选、500字/分、退格小于10、连续5篇随机 | 完成时间：  
 
 ### electron
-使用 JavaScript, HTML 和 CSS 构建跨平台的桌面应用
-[electron](https://github.com/13653389794/plain/blob/master/docker/index.md)    
+使用 JavaScript, HTML 和 CSS 构建跨平台的桌面应用  
+[electron 入门教程](https://github.com/13653389794/plain/blob/master/electron/%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B.md)    
