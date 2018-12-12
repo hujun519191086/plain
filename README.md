@@ -14,4 +14,4 @@
 [electron 打包教程demo](https://github.com/13653389794/plain/tree/master/electron/demo/demo02) | 完成时间:2018-12-11  
 
 ### css
-[BEM css命名规范](https://github.com/13653389794/plain/blob/master/css/BEM.md) | 完成时间:2018-12-12 
+[BEM 命名规范](https://github.com/13653389794/plain/blob/master/css/BEM.md) | 完成时间:2018-12-12 
