@@ -24,9 +24,9 @@ BEM命名的核心就是可以清晰的描述页面的结构,从其名字就可�
 如：item
 
 >modifier: 块或元素上的修饰使用它改变外观或行为的  
-如：red、size、disabled
+如：red、size、disabled  
 
-BEM常见的几种情况：
+### 5、BEM常见的几种情况
 ```
 .block{}  
 .block__element{}  
@@ -44,5 +44,51 @@ BEM常见的几种情况：
 .block-name__element-name{}  
 .block-name__element-name--modifier{}
 
-.block--modifier{} 
+.block--modifier{}  
+
 ```
+
+### 6、BEM在实际中的使用
+我们举一个项目列表的例子
+```
+<style>
+    .project-list{}
+    .project-list__item{}
+    .project-list__item--red{}
+    .project-list__item--green{}
+</style>
+
+<div class="project-list">
+    <div class="project-list__item"></div>
+    <div class="project-list__item--red"></div>
+    <div class="project-list__item--green"></div>
+</div>
+```
+
+### 7、在less或sass中使用BEM
+```
+.project{
+    height:100px;
+    &__item{
+        height:50px;
+        &--red{
+            color: red;
+        }
+    }
+}
+
+.project {
+  height: 100px;
+}
+.project__item {
+  height: 50px;
+}
+.project__item--red {
+  color: red;
+}
+
+```
+### 8、个人感受
+BEM命名规范给人的感觉就是好臃肿，类名好长，但还是建议在开发中遵循BEM命名规范，
+它只是一种思想，方便我们开发中规范类名，使我们的代码具有更高的可读性，
+BEM的难点并不是怎么使用，而是要不要使用，记得要灵活运用并不是所有地方都要遵循BEM的命名规范，
