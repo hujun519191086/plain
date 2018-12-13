@@ -12,3 +12,4 @@
 [electron 打包教程demo](https://github.com/13653389794/plain/tree/master/electron/demo/demo02) | 完成时间:2018-12-11  
 
 [BEM 命名规范](https://github.com/13653389794/plain/blob/master/css/BEM.md) | 完成时间:2018-12-12 
+[css 垂直居中](https://github.com/13653389794/plain/blob/master/css/BEM.md) | 完成时间:2018-12-13 
