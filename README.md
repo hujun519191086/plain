@@ -15,4 +15,4 @@
 [css 垂直居中](https://github.com/13653389794/plain/blob/master/css/%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD.md) | 完成时间:2018-12-13    
 [css 强制中英文换行](https://github.com/13653389794/plain/blob/master/css/%E5%BC%BA%E5%88%B6%E4%B8%AD%E8%8B%B1%E6%96%87%E6%8D%A2%E8%A1%8C.md) | 完成时间:2018-12-14   
 [css 区域透明内容不透明](https://github.com/13653389794/plain/blob/master/css/%E5%8C%BA%E5%9F%9F%E9%80%8F%E6%98%8E%E5%86%85%E5%AE%B9%E4%B8%8D%E9%80%8F%E6%98%8E.md) | 完成时间:2018-12-14   
-[css 文本溢出隐藏](https://github.com/13653389794/plain/blob/master/css/%E5%8C%BA%E5%9F%9F%E9%80%8F%E6%98%8E%E5%86%85%E5%AE%B9%E4%B8%8D%E9%80%8F%E6%98%8E.md) | 完成时间:2018-12-14   
+[css 文本溢出隐藏](https://github.com/13653389794/plain/blob/master/css/%E6%96%87%E6%9C%AC%E6%BA%A2%E5%87%BA%E9%9A%90%E8%97%8F.md) | 完成时间:2018-12-14   
