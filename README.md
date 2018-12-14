@@ -19,5 +19,4 @@
 [css 清除浮动](https://github.com/13653389794/plain/blob/master/css/%E6%B8%85%E9%99%A4%E6%B5%AE%E5%8A%A8.md) | 完成时间:2018-12-14   
 [cursor鼠标指针样式](https://github.com/13653389794/plain/blob/master/css/cursor%E6%8C%87%E9%92%88.md) | 完成时间:2018-12-14   
 [css字体中英文对照表](https://github.com/13653389794/plain/blob/master/css/%E5%AD%97%E4%BD%93%E4%B8%AD%E8%8B%B1%E6%96%87%E5%AF%B9%E7%85%A7%E8%A1%A8.md) | 完成时间:2018-12-14   
-
-[css样式初始化](https://github.com/necolas/normalize.css)  
+[css样式初始化](https://github.com/necolas/normalize.css)  | 添加时间:2018-12-14   
