@@ -18,3 +18,4 @@
 [css 文本溢出隐藏](https://github.com/13653389794/plain/blob/master/css/%E6%96%87%E6%9C%AC%E6%BA%A2%E5%87%BA%E9%9A%90%E8%97%8F.md) | 完成时间:2018-12-14   
 [css 清除浮动](https://github.com/13653389794/plain/blob/master/css/%E6%B8%85%E9%99%A4%E6%B5%AE%E5%8A%A8.md) | 完成时间:2018-12-14   
 [cursor鼠标指针样式](https://github.com/13653389794/plain/blob/master/css/cursor%E6%8C%87%E9%92%88.md) | 完成时间:2018-12-14   
+[css字体中英文对照表](https://github.com/13653389794/plain/blob/master/css/cursor%E6%8C%87%E9%92%88.md) | 完成时间:2018-12-14   
