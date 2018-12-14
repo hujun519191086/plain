@@ -5,7 +5,7 @@
 |default	|默认光标（通常是一个箭头）|
 |auto	|默认。浏览器设置的光标。|
 |crosshair	|光标呈现为十字线。|
-|pointer	|光标呈现为指示链接的指针（一只手）|
+|pointer	|<span style="cursor:pointer">光标呈现为指示链接的指针（一只手）</span> |
 |move	|此光标指示某对象可被移动。|
 |e-resize	|此光标指示矩形框的边缘可被向右（东）移动。|
 |ne-resize	|此光标指示矩形框的边缘可被向上及向右移动（北/东）。|
