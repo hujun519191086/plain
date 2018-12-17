@@ -22,7 +22,7 @@
 [css样式初始化 normalize.css](https://github.com/necolas/normalize.css)  | 添加时间:2018-12-14   
 [跨平台 CSS 中文字体解决方案 fonts.css](https://github.com/zenozeng/fonts.css)  | 添加时间:2018-12-14    
 [vscode mac 快捷键](https://github.com/13653389794/plain/blob/master/vscode/mac%E5%BF%AB%E6%8D%B7%E9%94%AE.md)  | 完成时间:2018-12-17   
-[vscode 常用插件](https://github.com/13653389794/plain/blob/master/vscode/mac%E5%BF%AB%E6%8D%B7%E9%94%AE.md)  | 完成时间:2018-12-17   
+[vscode 常用插件](https://github.com/13653389794/plain/blob/master/vscode/%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6.md)  | 完成时间:2018-12-17   
 
 
 
