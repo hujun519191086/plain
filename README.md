@@ -30,6 +30,7 @@
 [ubuntu安装node](https://github.com/13653389794/plain/blob/master/ubuntu/ubuntu安装node.md)  | 完成时间:2018-12-24   
 [ubuntu生成sshkey](https://github.com/13653389794/plain/blob/master/ubuntu/ubuntu生成sshkey.md)  | 完成时间:2018-12-24   
 [vmware安装vmware-tools](https://github.com/13653389794/plain/blob/master/vmware/安装vmware-tools.md)  | 完成时间:2018-12-24   
+[node调用系统命令](https://github.com/13653389794/plain/blob/master/node/node调用系统命令.md)  | 完成时间:2018-12-24   
 
 
 
