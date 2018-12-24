@@ -36,6 +36,7 @@
 [ubuntu安装ffmpeg](https://github.com/13653389794/plain/blob/master/ffmpeg/ubuntu安装ffmpeg.md)  | 完成时间:2018-12-24    
 [ubuntu安装ffmpeg错误处理](https://github.com/13653389794/plain/blob/master/ffmpeg/ubuntu安装ffmpeg错误处理.md)  | 完成时间:2018-12-24     
 [window安装ffmpeg](https://github.com/13653389794/plain/blob/master/ffmpeg/window安装ffmpeg.md)  | 完成时间:2018-12-24     
+[ssh免密登录](https://github.com/13653389794/plain/blob/master/ssh/ssh免密登录.md)  | 完成时间:2018-12-24     
 
 
 
