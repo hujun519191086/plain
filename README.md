@@ -24,10 +24,11 @@
 [vscode mac 快捷键](https://github.com/13653389794/plain/blob/master/vscode/mac快捷键.md)  | 完成时间:2018-12-17   
 [vscode 常用插件](https://github.com/13653389794/plain/blob/master/vscode/常用插件.md)  | 完成时间:2018-12-17   
 [lsof命令](https://github.com/13653389794/plain/blob/master/lsof/lsof.md)  | 完成时间:2018-12-17   
-[ubuntu安装ant](https://github.com/13653389794/plain/blob/master/lsof/lsof.md)  | 完成时间:2018-12-24    
-[ubuntu安装docker](https://github.com/13653389794/plain/blob/master/lsof/lsof.md)  | 完成时间:2018-12-24    
-[ubuntu安装java](https://github.com/13653389794/plain/blob/master/lsof/lsof.md)  | 完成时间:2018-12-24    
-[ubuntu安装node](https://github.com/13653389794/plain/blob/master/lsof/lsof.md)  | 完成时间:2018-12-24   
+[ubuntu安装ant](https://github.com/13653389794/plain/blob/master/ubuntu/ubuntu安装ant.md)  | 完成时间:2018-12-24    
+[ubuntu安装docker](https://github.com/13653389794/plain/blob/master/ubuntu/ubuntu安装docker.md)  | 完成时间:2018-12-24    
+[ubuntu安装java](https://github.com/13653389794/plain/blob/master/ubuntu/ubuntu安装java.md)  | 完成时间:2018-12-24    
+[ubuntu安装node](https://github.com/13653389794/plain/blob/master/ubuntu/ubuntu安装node.md)  | 完成时间:2018-12-24   
+[ubuntu生成sshkey](https://github.com/13653389794/plain/blob/master/ubuntu/ubuntu生成sshkey.md)  | 完成时间:2018-12-24   
 
 
 
