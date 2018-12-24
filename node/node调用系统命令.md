@@ -2,7 +2,8 @@
 >shelljs 包重新包装了 child_process，调用系统命令更加方便，建议直接使用shelljs   
 >npm install shelljs --save
 
-#### nodejs中调用系统命令使用的是child_process(子进程)模块   
+### 介绍
+nodejs中调用系统命令使用的是child_process(子进程)模块   
 
 默认情况下nodejs的父进程与衍生的子进程之间会建立stdin, stdout, stderr管道
 
@@ -25,7 +26,7 @@ child_process.execSync(): child_process.exec() 的同步版本，会阻塞 Node.
 child_process.execFileSync(): child_process.execFile() 的同步版本，会阻塞 Node.js 事件循环。  
 ```
 
-语法：
+### 语法：
 ```
 异步进程
 child_process.spawn(command[, args][, options])
@@ -41,8 +42,9 @@ child_process.execSync(command[, options])
 ```
 
 
-我们先来看下怎么使用   
+接下来我们看下怎么使用   
 
+### 1、node调用系统命令
 我们以lsof为例  如果你还不知道lsof请先点击[lsof命令](https://github.com/13653389794/plain/blob/master/lsof/lsof.md)
 ```
 // mac
@@ -100,3 +102,23 @@ lsof.stderr.on("data", function(data){
     console.log('-----stderr  end-------')
 })
 ```
+### 2、调用shell脚本  
+传递test参数  
+```
+//app.js
+const {execFile} = require("child_process");
+
+execFile('./test.sh', ['test'], function(error, stdout, stderr){
+    if(error){
+        throw error
+    }
+    console.log(stdout);
+})
+```
+记得要给shell脚本添加权限
+```
+#!/bin/sh
+
+echo "hello world：$1";
+```
+如果能够看到hello world：test说明调用成功了。
