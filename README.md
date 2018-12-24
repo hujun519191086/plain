@@ -6,7 +6,7 @@
 >第四阶段：盲打、英文打字、随机选、400字/分、退格小于10、连续5篇随机 | 完成时间：  
 >最终阶段：盲打、英文打字、随机选、500字/分、退格小于10、连续5篇随机 | 完成时间：  
 
-[electron 入门教程](https://github.com/13653389794/plain/blob/master/electron/%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B.md) | 完成时间:2018-12-11      
+[electron 入门教程](https://github.com/13653389794/plain/blob/master/electron/入门教程/入门教程.md) | 完成时间:2018-12-11      
 [electron 入门教程demo](https://github.com/13653389794/plain/tree/master/electron/demo/demo01) | 完成时间:2018-12-11      
 [electron 打包教程](https://github.com/13653389794/plain/blob/master/electron/electron%E6%89%93%E5%8C%85/electron%E6%89%93%E5%8C%85.md) | 完成时间:2018-12-11      
 [electron 打包教程demo](https://github.com/13653389794/plain/tree/master/electron/demo/demo02) | 完成时间:2018-12-11  
@@ -24,6 +24,10 @@
 [vscode mac 快捷键](https://github.com/13653389794/plain/blob/master/vscode/mac%E5%BF%AB%E6%8D%B7%E9%94%AE.md)  | 完成时间:2018-12-17   
 [vscode 常用插件](https://github.com/13653389794/plain/blob/master/vscode/%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6.md)  | 完成时间:2018-12-17   
 [lsof命令](https://github.com/13653389794/plain/blob/master/lsof/lsof.md)  | 完成时间:2018-12-17   
+[ubuntu安装ant](https://github.com/13653389794/plain/blob/master/lsof/lsof.md)  | 完成时间:2018-12-24    
+[ubuntu安装docker](https://github.com/13653389794/plain/blob/master/lsof/lsof.md)  | 完成时间:2018-12-24    
+[ubuntu安装java](https://github.com/13653389794/plain/blob/master/lsof/lsof.md)  | 完成时间:2018-12-24    
+[ubuntu安装node](https://github.com/13653389794/plain/blob/master/lsof/lsof.md)  | 完成时间:2018-12-24   
 
 
 
