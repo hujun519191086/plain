@@ -7,11 +7,9 @@
 >最终阶段：盲打、英文打字、随机选、500字/分、退格小于20、连续5篇随机 | 时间：  
 
 #### 看书计划
-要求：  
->每天100页,并且写出总结。  
-计划表：  
->[看书计划](https://github.com/13653389794/plain/blob/master/book/book.md)      
-
+  
+>要求：每天100页,并且写出总结。    
+>看书实施详情：[看书计划](https://github.com/13653389794/plain/blob/master/book/book.md) | 添加时间：2018-12-26       
 
 [electron 入门教程](https://github.com/13653389794/plain/blob/master/electron/入门教程/入门教程.md) | 完成时间:2018-12-11      
 [electron 入门教程demo](https://github.com/13653389794/plain/tree/master/electron/demo/demo01) | 完成时间:2018-12-11      
