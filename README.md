@@ -1,15 +1,15 @@
 ### 每天完成
 #### 熟悉键盘
 链接 http://dazi.kukuw.com/  
+我感觉程序员都应改会盲打，打字就相当于战士的枪。
 >要求：每天最少5次5分钟英文打字  
 >第一阶段：盲打、英文打字、随机选、100字/分、退格小于20、连续5篇随机 | 时间:2018年12月10-2018年12月26日  
 >第二阶段：盲打、英文打字、随机选、200字/分、退格小于20、连续5篇随机 | 时间：  
 >第三阶段：盲打、英文打字、随机选、300字/分、退格小于20、连续5篇随机 | 时间：  
 >第四阶段：盲打、英文打字、随机选、400字/分、退格小于20、连续5篇随机 | 时间：  
->最终阶段：盲打、英文打字、随机选、500字/分、退格小于20、连续5篇随机 | 时间：  
 
 #### 看书
->要求：每天100页,并且写出总结。    
+>要求：每天30页,并且写出总结。    
 >看书实施详情：[看书计划](https://github.com/13653389794/plain/blob/master/book/book.md) | 添加时间：2018-12-26       
 
 -----------------------------------------------------
@@ -45,6 +45,13 @@
 [ubuntu安装ffmpeg错误处理](https://github.com/13653389794/plain/blob/master/ffmpeg/ubuntu安装ffmpeg错误处理.md)  | 完成时间:2018-12-24     
 [window安装ffmpeg](https://github.com/13653389794/plain/blob/master/ffmpeg/window安装ffmpeg.md)  | 完成时间:2018-12-24     
 [ssh免密登录](https://github.com/13653389794/plain/blob/master/ssh/ssh免密登录.md)  | 完成时间:2018-12-24     
+[自己常用的js](https://github.com/13653389794/plain/blob/master/javascript/常用的js.js)  | 完成时间:2018-12-27     
+[自己的jquery](https://github.com/13653389794/plain/blob/master/javascript/自己的jquery.js)  | 完成时间:2018-12-27     
+[用户体验](https://github.com/13653389794/plain/blob/master/用户体验/用户体验.md)  | 完成时间:2018-12-27     
+[rabbitmq安装](https://github.com/13653389794/plain/blob/master/rabbitmq/rabbitmq安装.md)  | 完成时间:2018-12-29     
+[rabbitmq教程hello-world](https://github.com/13653389794/plain/blob/master/rabbitmq/rabbitmq教程hello-world.md)  | 完成时间:2018-12-29     
+
+
 
 
 
