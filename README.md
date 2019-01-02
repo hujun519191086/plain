@@ -49,6 +49,7 @@
 [自己的jquery](https://github.com/13653389794/plain/blob/master/javascript/自己的jquery.js)  | 完成时间:2018-12-27     
 [用户体验](https://github.com/13653389794/plain/blob/master/用户体验/用户体验.md)  | 完成时间:2018-12-27     
 [rabbitmq安装](https://github.com/13653389794/plain/blob/master/rabbitmq/rabbitmq安装.md)  | 完成时间:2018-12-29     
+[rabbitmq教程](https://github.com/13653389794/plain/blob/master/rabbitmq/rabbitmq教程.md)  | 完成时间:2018-12-29     
 [rabbitmq教程hello-world](https://github.com/13653389794/plain/blob/master/rabbitmq/rabbitmq教程hello-world.md)  | 完成时间:2018-12-29     
 
 
