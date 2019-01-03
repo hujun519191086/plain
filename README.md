@@ -50,7 +50,13 @@
 [用户体验](https://github.com/13653389794/plain/blob/master/用户体验/用户体验.md)  | 完成时间:2018-12-27     
 [rabbitmq安装](https://github.com/13653389794/plain/blob/master/rabbitmq/rabbitmq安装.md)  | 完成时间:2018-12-29     
 [rabbitmq教程](https://github.com/13653389794/plain/blob/master/rabbitmq/rabbitmq教程.md)  | 完成时间:2018-12-29     
-[rabbitmq教程hello-world](https://github.com/13653389794/plain/blob/master/rabbitmq/rabbitmq教程hello-world.md)  | 完成时间:2018-12-29     
+[rabbitmq教程-helloworld](https://github.com/13653389794/plain/blob/master/rabbitmq/rabbitmq教程-helloworld.md)  | 完成时间:2019-1-2        
+[rabbitmq教程-工作队列](https://github.com/13653389794/plain/blob/master/rabbitmq/rabbitmq教程-工作队列.md)  | 完成时间:2019-1-2     
+[rabbitmq-普通模式](https://github.com/13653389794/plain/blob/master/rabbitmq/普通模式/)  | 完成时间:2019-1-3         
+[rabbitmq-发布订阅者模式](https://github.com/13653389794/plain/blob/master/rabbitmq/发布订阅者模式/)  | 完成时间:2019-1-3         
+[rabbitmq-路由模式](https://github.com/13653389794/plain/blob/master/rabbitmq/路由模式/)  | 完成时间:2019-1-3         
+[rabbitmq-topic模式](https://github.com/13653389794/plain/blob/master/rabbitmq/topic模式/)  | 完成时间:2019-1-3         
+[rabbitmq-rpc模式](https://github.com/13653389794/plain/blob/master/rabbitmq/rpc模式/)  | 完成时间:2019-1-3         
 
 
 
