@@ -2,7 +2,7 @@
 
 ### docker镜像  
 ```
-docker run  -p 5672:5672  -p 15672:15672  rabbitmq:management
+docker run  -d -p 5672:5672  -p 15672:15672  rabbitmq:management
 ```
 安装完成后
 浏览器打开 http://127.0.0.1:15672  
