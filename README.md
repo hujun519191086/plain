@@ -57,6 +57,8 @@
 [rabbitmq-路由模式](https://github.com/13653389794/plain/blob/master/rabbitmq/路由模式/)  | 完成时间:2019-1-3         
 [rabbitmq-topic模式](https://github.com/13653389794/plain/blob/master/rabbitmq/topic模式/)  | 完成时间:2019-1-3         
 [rabbitmq-rpc模式](https://github.com/13653389794/plain/blob/master/rabbitmq/rpc模式/)  | 完成时间:2019-1-3         
+[babel升级到7](https://github.com/13653389794/plain/blob/master/babel/babel6生babel7.md)  | 完成时间:2019-1-8         
+[idea破解](https://github.com/13653389794/plain/blob/master/intellijIDEA/idea破解.md)  | 完成时间:2019-1-8         
 
 
 
